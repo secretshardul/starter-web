@@ -7,6 +7,3 @@ purpose- staging area
 ### deployment
 deployment- working directory
 #### how to contribute
-
-##### copyright
-do not steal
