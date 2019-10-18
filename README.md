@@ -1,6 +1,7 @@
 # Starter web project
 starter web- commit phase
 Adding for rebase example. More changes from myfeature branch
+65. stashing
 ## introduction
 intro- commit
 ### purpose
