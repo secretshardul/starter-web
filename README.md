@@ -1,6 +1,6 @@
 # Starter web project
 starter web- commit phase
-Adding for rebase example
+Adding for rebase example. More changes from myfeature branch
 ## introduction
 intro- commit
 ### purpose
